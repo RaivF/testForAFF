@@ -1,0 +1,144 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+
+}
+
+.imageProfile img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-left: 50px;
+  margin-top: 10px;
+  background-color: #ddd;
+  object-fit: cover;
+}
+
+.nameAndStatus {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  color: #ffffff;
+}
+
+.nameAndStatus h1 {
+  margin: 0;
+  font-size: 64px;
+
+
+}
+
+.status {
+  margin: 0;
+  font-size: 32px;
+
+
+}
+
+
+.mainContent {
+  width: 87%;
+  display: flex;
+
+  background-color: white;
+  padding: 20px;
+  align-items: flex-start;
+  color: black;
+
+}
+
+.description {
+  width: 60%;
+  max-width: 600px;
+  font-size: 1.3em;
+}
+
+.contacts {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-left: 30%;
+}
+
+.contactItem {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contactItem img {
+  margin-right: 10px;
+
+}
+
+@media (max-width: 860px) {
+  .profile {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .imageProfile img {
+
+    margin-left: 0px;
+    margin-top: 0px;
+
+  }
+}
+
+@media (max-width: 630px) {
+  .mainContent {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 510px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .profile {
+    width: 200px;
+    flex-direction: column;
+    align-items: center;
+
+  }
+
+  .description p {
+    width: 300px;
+  }
+
+  .imageProfile {
+    box-sizing: content-box;
+
+  }
+
+  .nameAndStatus h1 {
+    font-size: 40px;
+  }
+
+  .description {
+    max-width: 800px;
+  }
+
+  .imageProfile img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: #ddd;
+    object-fit: cover;
+  }
+
+}

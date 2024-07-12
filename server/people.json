@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Артур ",
+		"img": "https://s3-alpha-sig.figma.com/img/c92e/0204/37dd0e27d91b948122d59b5fdd857292?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WKAJ~4g67erSJfwQROl15vIt496NpGk6b4FQmqDevooJtZGoLX6-nc50AkqhT9lIFIJk3CeoA0J8PNI0-QFeSlA4EfCXJPL0id795gsUnZdOfpEdJw9tuYqVGN8uOqHqdlY~Isr0sSwNsTnSgNOB382OU3GhhSPvR1ovC-FmldOwjo92gNOCjTUBOzVoFhhwRQO-RSfhEwTxJ6QWqH58lCwM6rdxcjES-j3uFDABW2tZyGh5xiD6XlagfgRvrak9XrAMrhKiz2CvbXaqw07hB7WI-w6nEgt~qimyE1ZdHWizrz3CLge9EdHMEPMAR-FO6OFpI7Cf4v~qeugiBNjGOA__",
+		"id": "1",
+		"surname": "Королёв",
+		"status": "партнёр",
+		"description": "Клиенты видят в нем эксперта по вопросам разработки комплексных решений финансовых продуктов, включая такие аспекты, как организационная структура, процессы, аналитика и ИТ-компоненты. Он помогает клиентам лучше понимать структуру рисков их бизнеса, улучшать процессы за счет применения новейших технологий и увеличивать продажи, используя самые современные аналитические инструменты. \n\n В работе с клиентами недостаточно просто решить конкретную проблему или помочь справиться с трудностями. Не менее важно уделять внимание обмену знаниями: Один из самых позитивных моментов — это осознание того, что ты помог клиенту перейти на совершенно новый уровень компетентности, уверенность в том, что после окончания проекта у клиента есть все необходимое, чтобы дальше развиваться самостоятельно \n\n Помимо разнообразных проектов для клиентов финансового сектора, Сорин ведет активную предпринимательскую деятельность. Он является совладельцем сети клиник эстетической медицины в Швейцарии, предлагающей инновационный подход к красоте, а также инвестором других бизнес-проектов",
+		"email": "sykfafkar@gmail.com",
+		"phone": "+7 (954) 333-44-55"
+	},
+	{
+		"name": "Имя 2",
+		"img": "https://s3-alpha-sig.figma.com/img/653b/c0b1/7dd743e43973b1a27fa68bc26bf7c298?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AwH5ms5YJYgD-5k6CNJgynIO9FQRmGxScASsrKoNk91d~TkCdn-rkgVJVxqLOGz4a3rvSo4IdwkFfksWGiNDq2kr2Gw5aoJZvaPW38vZ05t3P~oXFTiCfSrQbi9rNIdu3-WoTI6F6e5dB99qzptXAgwNLasinZRdz00rAnNDq7NmNMNxsIjk8SSBFDg1D8RScWzZjmbCCLZ~p2iru-Kol-c9dl2Et0Y7OqEXlM7sL~8RYoWnbb~2zphj0p--mAURlrdtBFlNFs8hdCKzbL28QPtlT6K2xpYV5~kyBfBF9mcN9nkkDk7AnyU6nwCAD2cPCY82I7v3Z1ATl68pJv77ow__",
+		"id": "2",
+		"surname": "Фамилия",
+		"status": "партнёр",
+		"description": "это моё описание",
+		"email": "my@.com",
+		"phone": "+7132641625"
+	},
+	{
+		"name": "Имя 3",
+		"img": "https://s3-alpha-sig.figma.com/img/1994/067c/3ac3d40d2341bd81bd13e2e7f755bf0d?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dFHb6jdvpSY~qUA-6~YtDG2oKWCGwd9bUSnH7JW-wjic~4Jpwy1M~g6-icaSGlwK-t~-shMJ2NlWcRyM3pcoTO4VoL32sTjJo9FXrATQxe9OGytl9IYXsNq4QY~YOx1GITnJT22-v9cztMb-2zyYUpo0vV9hT4v--lF3ZTOyqEV6RBXeOu5ZAio9c8tobR4ycUXeQveYA4b42dfbX82p-62vtI1894TsDVArF3Yh40SuHYF85718dZNT024~RPRof6xlMyaxaAqK7e48fbi-hnHTYbeJE3rmW0cs~qwzXXgUwPzfIPykrTuVJPTTvg1KWzSsb0f9Pjofhw6zei-YnA__",
+		"id": "3",
+		"surname": "Фамилия",
+		"status": "партнёр",
+		"description": "это моё описание",
+		"email": "my@.com",
+		"phone": "+7132641625"
+	},
+	{
+		"name": "Имя 4",
+		"img": "https://s3-alpha-sig.figma.com/img/8cac/66ed/ac7e9cc006e377a554341d67f0d9b385?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ogCBvXRcMPh1cNy5jRbOxoaTbhZKtk3wRowhWIlqKZT2mU93iURT70vBsfSub1ws5d6~jGQFsFzDHo2dXiouq-1MuXDLSQCLLIC7PZlVW7Sh7BOdShqDj2qK6zcz8Rnu94V1rNSuEhtOWgNBRCIua~BklF7nDxUWvhA3q1Nc0YztbbZsTDan0~88HQxt-enECNxYf3o8Vm7CGoAaG0Gl2MRSPkeDV9~SSxpNGTap~-qYiz0PfIO5I~7ruzfgXjQ4auOpGJxx57RGOhQvzN8vlkOJPHSv7023DpN2R-waRTbXenRCyFg~V~aTWGwoRkhlrjtdCxKAKzpjrIt2RRDzvw__",
+		"id": "4",
+		"surname": "Фамилия",
+		"status": "партнёр",
+		"description": "это моё описание",
+		"email": "my@.com",
+		"phone": "+7132641625"
+	},
+	{
+		"name": "Имя 5",
+		"img": "https://s3-alpha-sig.figma.com/img/68c0/8238/2bff0726a6aa188908e971a35de2a05b?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RmlhqFdeZ8FMUPhGvupTBa-Tf9~A0x3w7KUPwvQvdzwREaAyTs0lRdz5RPaeDQI1qZji0Zu2uo1zLAjev1OYyCT5Pji2qDzf4lHAejcqlttlBsV7y2Fw95R~0IIG6a-1qNSnIyo4YaO13noSjv~tuJTOjCqoDkII0Mer-zyOf24EiK-jvi5ICGwEG81R1j4aMgUyHOeYiqoRYnIyFEVZnGB5fRYrRMJZyS5oBXr69cnWwwU1-ddM4P2Hy4xT4f7ffZrDVbBPKGAPLtLzFI6MWWWwLW9drURB-2Es3gzN~PJ2kOzByKhhauLaFBBqIqQ5w9cbnoIVSkhrwQ6kzykCzA__",
+		"id": "5",
+		"surname": "Фамилия",
+		"status": "партнёр",
+		"description": "это моё описание",
+		"email": "my@.com",
+		"phone": "+7132641625"
+	},
+	{
+		"name": "Имя 6",
+		"img": "https://s3-alpha-sig.figma.com/img/044c/bf49/9dba64f9730d3674fb0161ff56dc24cd?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Dtfxy6h2DMEmMySlXiSwWqL9GAxGNAE48vpskXZsi8PsyxIki4XHOlUgDDSVFz2hq0ftk7vRYzCKP5JFWjWeoMOY1NGXiE0wjyTTC1Ow~IZtZZnzmEd99Uqzfe3kXXYAGIzPFUreBaPyVBAAyp0O8iqb2VpT4LdTTVqCxj42Edqu3ZqfvPeSGtcHS9fZDnG-L3WSJzQws1TQHh~nSZQUKeUA1Fi~HEmGevIpS1sRL0L395vQOFPejW9UxDk63DSZs6KaOwVBTRxYb54pM3eZ-F-6Jt8fQqbXuc5k1j3GZD~Jw85BorZDloAVovgHoK2DbI8XIvLfM~OG-Vz7FL~F4g__",
+		"id": "6",
+		"surname": "Фамилия",
+		"status": "партнёр",
+		"description": "это моё описание",
+		"email": "my@.com",
+		"phone": "+7132641625"
+	},
+	{
+		"name": "Имя 7",
+		"img": "https://s3-alpha-sig.figma.com/img/4239/91c4/f62489f56493e3dff017b43cc578f9c4?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CADN6cuLi-RWwoqtGVqodZs5fhECMkMbsC5J9BtdOBPySMyxwyzgJojZ83CQG7NcTmdsYpXhW3fa5NJbOETpoL6zDeuhhAHE3GooYs-8QEUgyDnxuiHywdGLqBpGftjJAbWVM0S4ykb2QoNpahnY8BvU1Cp2FrnCgO2~If77-JXRhdcbOeebtFprLK-FNBPSp21s4ngP5yOltLUNpJYj9-QMyaxv7mB5-n~NzhFllmE-OEG1-8gA7A1TFATu98SSm-xsgU-uhEiRm9cSUQR9NdS--owQs81zw6qQSrxuISV9VvdOhLpKp9fXQGRsQo9oTXr23C7es3jbvg3NeOxK8g__",
+		"id": "7",
+		"surname": "Фамилия",
+		"status": "партнёр",
+		"description": "это моё описание",
+		"email": "my@.com",
+		"phone": "+7132641625"
+	},
+	{
+		"name": "Имя 8",
+		"img": "https://s3-alpha-sig.figma.com/img/8cce/bd0d/df213f459e159eee9d642cf9453eed3a?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jIxT0jZgLJ4c3SUEhjCZ7Oxw1etYsAAceEMu8pAYznD59dKkF08v~8VPKRi-rCCRFS5Z1e1ti3nAt0fiZKqyqt0EQqbxpCk0pduTELzL0wGdshsP5qbC45SZ15mtN6QRPDcKJmi4YHQyF9i~H3CozH5Y15fpmRXDBLtpP1dMMeCRFb90c-~WoxuDqVA51uYfcY6p-xGrbnguNRmrvsgyyveZ~p8J~y32qdg4lTu7SYOvh4HJx6R7Lg0aR4gX1ZP3IQHORRBsMzat8Y7pQLJbcVgUCyRCbfIUZRSb4aI1XmXrn1JPqWTRgjcj0VZlvBKUjDlkLYBQW6z3HNQMB3vm8Q__",
+		"id": "8",
+		"surname": "Фамилия",
+		"status": "партнёр",
+		"description": "это моё описание",
+		"email": "my@.com",
+		"phone": "+7132641625"
+	}
+]
